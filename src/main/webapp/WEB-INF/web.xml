@@ -10,7 +10,7 @@
     </context-param>
     <filter>
         <filter-name>CorsFilter</filter-name>
-        <filter-class>com.dfsj.filter.CORSFilter</filter-class>
+        <filter-class>com.jone.filter.CORSFilter</filter-class>
     </filter>
 
     <filter-mapping>
