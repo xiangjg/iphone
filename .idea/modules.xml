@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/phone.iml" filepath="$PROJECT_DIR$/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/phone.iml" filepath="$PROJECT_DIR$/.idea/modules/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/phone_main.iml" filepath="$PROJECT_DIR$/.idea/modules/phone_main.iml" group="phone" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/phone_test.iml" filepath="$PROJECT_DIR$/.idea/modules/phone_test.iml" group="phone" />
     </modules>
   </component>
 </project>

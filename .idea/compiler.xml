@@ -18,5 +18,9 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="phone_main" target="1.7" />
+      <module name="phone_test" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
